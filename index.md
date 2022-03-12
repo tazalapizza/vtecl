@@ -1,4 +1,3 @@
-## Veille Technologique - Les NFT : Buzz ou Révolution ?
 ### Mourtaza ABBASBHAY
 
 [Slides de présentation](https://github.com/tazalapizza/vtecl/blob/gh-pages/NFT%20VTECL.pdf) <br/>
