@@ -13,7 +13,6 @@ Une annonce de collaboration entre Binance et Netmarble qui prédit une utilisat
 Une avancée énorme pour faciliter l'échange des NFTs, 0x est l'un des protocoles les plus utilisés pour l'échange de cryptomonnaies et les NFTs vont bientôt pouvoir l'utiliser. Cela va permettre une intégration plus simple des NFT dans les outils ayant déjà implémenté le protocole 0x comme méthode d'échange.
 
 <!--
-```
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
