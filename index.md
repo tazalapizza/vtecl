@@ -13,7 +13,7 @@ Une annonce de collaboration entre Binance et Netmarble qui prédit une utilisat
 [Lien de l'article](https://blog.0x.org/introducing-multi-chain-nft-swaps/) <br/>
 Une avancée énorme pour faciliter l'échange des NFTs, 0x est l'un des protocoles les plus utilisés pour l'échange de cryptomonnaies et les NFTs vont bientôt pouvoir l'utiliser. Cela va permettre une intégration plus simple des NFT dans les outils ayant déjà implémenté le protocole 0x comme méthode d'échange.
 
-
+<!--
 ```
 **Bold** and _Italic_ and `Code` text
 
@@ -28,3 +28,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-->
