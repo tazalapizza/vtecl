@@ -1,32 +1,23 @@
-## Welcome to GitHub Pages
+## Veille Technologique - Les NFT : Buzz ou Révolution ?
+### Mourtaza ABBASBHAY
 
 [Slides de présentation](https://github.com/tazalapizza/vtecl/blob/gh-pages/NFT%20VTECL.pdf)
+[Compte Twitter](https://twitter.com/AM_NFT_VT)
 
-You can use the [editor on GitHub](https://github.com/tazalapizza/vtecl/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Binance and Netmarble F&C Sign MoU for Strategic Partnership to Build a Global P2E and NFT Ecosystem
+[Lien de l'article](https://www.binance.com/en/blog/markets/binance-and-netmarble-fc-sign-mou-for-strategic-partnership-to-build-a-global-p2e-and-nft-ecosystem-421499824684903403)
+Une annonce de collaboration entre Binance et Netmarble qui prédit une utilisation sérieuse des NFT dans la GameFi. Les jeux vidéos sont un espace propice à l'usage des NFT, il n'est pas surprenant de voir les collaborations entre les deux domaines émerger.
 
-### Markdown
+## Echange de NFT par le protocole 0x v4
+[Lien de l'article](https://blog.0x.org/introducing-multi-chain-nft-swaps/)
+Une avancée énorme pour faciliter l'échange des NFTs, 0x est l'un des protocoles les plus utilisés pour l'échange de cryptomonnaies et les NFTs vont bientôt pouvoir l'utiliser. Cela va permettre une intégration plus simple des NFT dans les outils ayant déjà implémenté le protocole 0x comme méthode d'échange.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
+```
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
