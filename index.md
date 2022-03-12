@@ -1,8 +1,7 @@
-### Mourtaza ABBASBHAY
-
 [Slides de présentation](https://github.com/tazalapizza/vtecl/blob/gh-pages/NFT%20VTECL.pdf) <br/>
 [Compte Twitter](https://twitter.com/AM_NFT_VT)
 
+# Publications
 
 ## Binance et Netmarble préparent un partenariat pour construire un écosystème NFT
 [Lien de l'article](https://www.binance.com/en/blog/markets/binance-and-netmarble-fc-sign-mou-for-strategic-partnership-to-build-a-global-p2e-and-nft-ecosystem-421499824684903403) <br/>
